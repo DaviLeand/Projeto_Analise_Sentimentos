@@ -33,6 +33,3 @@ Criar um modelo de Machine Learning que classifique automaticamente os reviews d
 │   └── imagens        <- Gráficos e figuras gerados para serem usados em relatórios
 ```
 
-## Configuração do ambiente
-
-
