@@ -1,9 +1,12 @@
 Dicionário de variáveis:
 
-Time: Tempo desde o primeiro registro até a transação atual (em segundos)
 
-V1 a V28: Componentes principais derivados de transações (anonimizadas)
 
-Amount: Valor da transação
+review\_id: Código numérico do review, funciona como chave única.
 
-Class: 0 = transação normal, 1 = transação fraudulenta
+texto\_review: Descrição da avaliação do cliente. Funciona como uma "feature" do modelo
+
+sentimento: Rótulo da avaliação final do cliente. Funciona como "target" do modelo
+
+
+
